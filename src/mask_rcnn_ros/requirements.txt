@@ -1,0 +1,11 @@
+h5py
+Keras
+numpy
+rviz
+scikit-image
+scikit-learn
+scipy
+tensorflow-gpu
+opencv-python
+rospkg
+config

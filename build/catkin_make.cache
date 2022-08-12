@@ -1,0 +1,2 @@
+mask_rcnn_ros
+-DCATKIN_DEVEL_PREFIX=/home/gpupc3/demo_jm/devel -DCMAKE_INSTALL_PREFIX=/home/gpupc3/demo_jm/install -G Unix Makefiles
